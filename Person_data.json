@@ -1,0 +1,61 @@
+[
+  {
+    "first name": "Shital",
+    "last name": "Bedarkar",
+    "data": {
+      "Address": "SB Road",
+      "city": "Pune",
+      "state": "Maharastra",
+      "zip_code":"410052",
+      "phone_number":"9910254563"
+    }
+  },
+
+  {
+    "first name": "Kavya",
+    "last name": "Mahajan",
+    "data": {
+      "Address": "MG Road",
+      "city": "Mumbai",
+      "state": "Maharastra",
+      "zip_code":"413510",
+      "phone_number":"7710254563"
+    }
+  },
+
+  {
+    "first name": "Rakesh",
+    "last name": "Varma",
+    "data": {
+      "Address": "Charch gate",
+      "city": "Bengaluru",
+      "state": "karnatka",
+      "zip_code":"35102",
+      "phone_number":"9910287563"
+    }
+  },
+
+  {
+    "first name": "Rahul",
+    "last name": "Malhotra",
+    "data": {
+      "Address": "Nampalli",
+      "city": "Hydrabad",
+      "state": "Andhrapradesh",
+      "zip_code":"51022",
+      "phone_number":"9854374563"
+    }
+  },
+
+  {
+    "first name": "Rajappa",
+    "last name": "Nayadu",
+    "data": {
+      "Address": "vengal",
+      "city": "chennai",
+      "state": "Tamilnadu",
+      "zip_code":"201052",
+      "phone_number":"9910283923"
+    }
+  }
+ ]

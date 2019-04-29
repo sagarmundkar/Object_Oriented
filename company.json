@@ -1,0 +1,46 @@
+[
+  {
+    "name": "GOOGLE",
+    "data": {
+      "no_of_share": "881",
+      "price": "500",
+      "balance": "309500"
+    }
+  },
+
+  {
+    "name": "IBM",
+    "data": {
+      "no_of_share": "81",
+      "price": "5000",
+      "balance": "39500"
+    }
+  },
+
+  {
+    "name": "FACEBOOK",
+    "data": {
+      "no_of_share": "88",
+      "price": "700",
+      "balance": "402500"
+    }
+  },
+  {
+    "name": "MICROSOFT",
+    "data": {
+      "no_of_share": "188",
+      "price": "550",
+      "balance": "3567443"
+    }
+  },
+
+    {
+    "name": "INFOSYS",
+    "data": {
+      "no_of_share": "1267",
+      "price": "6786",
+      "balance": "789932"
+    }
+  }
+
+]
